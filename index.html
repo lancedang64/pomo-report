@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Pomo report</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+  </head>
+  <body>
+    <div>
+      <canvas id="chart"></canvas>
+    </div>
+    <script>
+      d3.csv('./report.csv').then(makeChart);
+
+      function makeChart(data) {
+        const onlyCoding = data.filter((record) => record.project === 'Coding');
+        const onlyCoding2 = onlyCoding.map((record) => {
+          record.date = getFormatDate(record.date);
+          return record;
+        });
+        console.log(onlyCoding2);
+        var chart = new Chart('chart', {
+          type: 'bar',
+          data: {
+            labels: onlyCoding2.map((record) => record.date),
+            datasets: [
+              {
+                data: onlyCoding2.map((record) => record.hours),
+              },
+            ],
+          },
+          backgroundColor: 'rgba(255, 99, 132, 0.2)',
+        });
+      }
+
+      function getFormatDate(text) {
+        const date = text.slice(6, 8);
+        const month = text.slice(4, 6);
+        return `${date} - ${month}`;
+      }
+    </script>
+  </body>
+</html>

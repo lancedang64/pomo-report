@@ -1,0 +1,170 @@
+date,project,hours
+20201231,No Project,0.03
+20210101,No Project,0.83
+20210102,No Project,2.16
+20210104,No Project,5.73
+20210107,No Project,0.4
+20210108,No Project,1.14
+20210111,No Project,2.54
+20210112,No Project,2.7
+20210113,No Project,1.4
+20210114,No Project,0.83
+20210115,No Project,0.03
+20210118,No Project,0.95
+20210119,No Project,0.61
+20210120,No Project,1.5
+20210121,No Project,0.56
+20210122,No Project,0.01
+20210124,No Project,0.98
+20210125,No Project,0.18
+20210126,No Project,3.7
+20210127,No Project,0.21
+20210128,No Project,2.86
+20210129,No Project,0.18
+20210131,No Project,0.4
+20210206,No Project,0.46
+20210210,No Project,0
+20210215,No Project,2.31
+20210216,No Project,1
+20210218,No Project,0.5
+20210219,No Project,0.31
+20210220,No Project,0.65
+20210221,No Project,2.78
+20210223,No Project,2.61
+20210224,No Project,1.18
+20210225,No Project,0.98
+20210226,No Project,0.75
+20210302,No Project,0.1
+20210303,No Project,0.21
+20210304,No Project,0.36
+20210305,No Project,0.68
+20210307,No Project,0
+20210309,No Project,2.03
+20210310,No Project,2.33
+20210311,No Project,0.18
+20210316,No Project,1.41
+20210319,No Project,0.9
+20210320,No Project,0
+20210320,Coding,1.65
+20210321,No Project,0
+20210321,Coding,4.41
+20210322,No Project,0
+20210322,Coding,3.05
+20210323,No Project,0
+20210323,Coding,1.5
+20210323,Life to-dos,0.58
+20210323,Mediplink,0.56
+20210324,No Project,0
+20210324,Life to-dos,1.5
+20210324,Mediplink,0.56
+20210326,No Project,0
+20210326,Mediplink,2.46
+20210327,No Project,0.38
+20210327,Mediplink,0.71
+20210329,No Project,0
+20210329,Coding,0.16
+20210329,Mediplink,1.21
+20210330,No Project,0
+20210330,Mediplink,3.61
+20210331,No Project,0
+20210401,No Project,0.5
+20210402,No Project,0
+20210402,Coding,1.63
+20210402,Mediplink,0.28
+20210403,Coding,0.4
+20210404,No Project,0
+20210404,Coding,1.56
+20210404,Life to-dos,0.41
+20210405,No Project,0
+20210405,Coding,2.7
+20210405,Life to-dos,0.45
+20210406,No Project,0
+20210406,Coding,2
+20210406,Life to-dos,0.83
+20210407,Coding,0.05
+20210407,Mediplink,0.41
+20210408,Coding,1.33
+20210408,Life to-dos,0.01
+20210409,Coding,1.05
+20210409,Life to-dos,2.16
+20210412,Coding,3.46
+20210412,Life to-dos,1.14
+20210414,Life to-dos,2.08
+20210415,Coding,1.51
+20210416,Coding,2.54
+20210417,Coding,0.28
+20210419,Coding,3.91
+20210420,Coding,0.51
+20210421,Coding,0.1
+20210422,Coding,1.28
+20210423,Coding,3.86
+20210424,Coding,0.25
+20210425,Coding,0.61
+20210426,Coding,5.48
+20210426,Life to-dos,1.65
+20210427,Coding,2.28
+20210427,Life to-dos,2.08
+20210428,Coding,1.81
+20210428,Life to-dos,1
+20210429,Coding,6.7
+20210429,Life to-dos,0.66
+20210430,Coding,5.63
+20210430,Life to-dos,0.05
+20210501,Coding,3.5
+20210502,Coding,0.5
+20210502,Life to-dos,1.25
+20210503,Coding,1.23
+20210503,Life to-dos,2.29
+20210504,Coding,1.46
+20210504,Life to-dos,3.5
+20210505,Coding,0.3
+20210505,Life to-dos,1.58
+20210506,Coding,5.53
+20210506,Life to-dos,0.05
+20210507,Coding,3.53
+20210507,Life to-dos,0.06
+20210508,Coding,3.41
+20210509,Coding,3.1
+20210510,Coding,5.48
+20210510,Life to-dos,1
+20210511,Coding,4.08
+20210511,Life to-dos,2
+20210512,Coding,4.2
+20210512,Life to-dos,0.75
+20210513,Coding,4.5
+20210513,Life to-dos,2
+20210514,Coding,3.68
+20210514,Life to-dos,2.5
+20210514,Mediplink,1.16
+20210515,Coding,4.25
+20210515,Life to-dos,3.26
+20210516,Coding,1.16
+20210516,Life to-dos,2.5
+20210517,Coding,6.45
+20210517,Life to-dos,3
+20210518,Coding,2.04
+20210518,Life to-dos,7.11
+20210519,Coding,2.4
+20210519,Life to-dos,4.81
+20210520,Coding,6.18
+20210520,Life to-dos,0.91
+20210521,Coding,2.88
+20210521,Life to-dos,3.18
+20210522,Coding,5.3
+20210522,Life to-dos,3
+20210523,Coding,2.23
+20210523,Life to-dos,4.5
+20210524,Coding,4.76
+20210524,Life to-dos,3.15
+20210525,Coding,6.75
+20210525,Life to-dos,1.63
+20210526,Coding,5.3
+20210526,Life to-dos,0.78
+20210527,Coding,2.54
+20210527,Life to-dos,0.16
+20210528,Coding,2.45
+20210602,Coding,3.65
+20210602,Life to-dos,0.18
+20210603,Coding,0.2
+20210603,Life to-dos,0.75
+20210604,Coding,2.35
